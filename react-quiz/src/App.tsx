@@ -1,5 +1,5 @@
 import React, { MouseEvent, useState } from "react";
-import { fetchQuizQuestions, Question } from "./API";
+import { fetchQuizQuestions } from "./API";
 // Components
 import Header from "./components/Header";
 import Card from "./components/Card";
