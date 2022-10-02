@@ -1,0 +1,5 @@
+package com.coach.springdemo;
+
+public class MyLoggerConfig {
+
+}
